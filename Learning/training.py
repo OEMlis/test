@@ -1,2 +1,3 @@
 import this
-test
+print(15)
+print('test')
